@@ -1,0 +1,7 @@
+[dependencies]
+rust-github = { git = "https://github.com/sriharshakappala/rust-github" }
+
+[package]
+name = "my_github"
+version = "0.1.0"
+authors = ["Sri Harsha Kappala <sriharsha.kappala@hotmail.com>"]
